@@ -1,0 +1,6 @@
+{
+  "key.cg.configured": "变速齿轮",
+  "gui.cg.stop_on": "在配置界面时停止变速",
+  "gui.cg.timer": "变速的倍数",
+  "gui.cg.timer_range": "%s 倍"
+}

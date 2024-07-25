@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.cg.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "cg.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "TimerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

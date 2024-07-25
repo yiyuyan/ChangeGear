@@ -1,0 +1,6 @@
+{
+  "key.cg.configured": "ChangeGear",
+  "gui.cg.stop_on": "StopOnConfiguring",
+  "gui.cg.timer": "Multiple of timer",
+  "gui.cg.timer_range": "%s times"
+}
